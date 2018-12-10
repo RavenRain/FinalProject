@@ -3,12 +3,10 @@
 }
 
 html {
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  font-family: OCR A Std, monospace;
+  font-family: PT Sans, sans-serif;
   line-height: 1.4;
   color: #666;
-  background-color:white;
+  background-color: #36454f;
 }
 
 #root {
